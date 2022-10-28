@@ -1,7 +1,7 @@
 <template>
   <body>
     <div class="hello">
-      <h1>Hello world</h1>
+      <h1>Recreate Palette</h1>
       <h1>xVal= {{ xVal }}</h1>
       <h1>yVal= {{ yVal }}</h1>
     </div>
